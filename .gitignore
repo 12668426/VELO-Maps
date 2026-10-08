@@ -1,0 +1,12 @@
+*.vmap
+*.vmp
+*.vht
+*.pbf
+.env*
+__pycache__/
+.downloads/
+*.sqlite
+*.log
+*.pem
+*.p12
+*.mobileprovision

@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "repository": "12668426/VELO-Maps",
+  "updatedAt": "2026-10-08",
+  "provinces": [
+    {
+      "regionID": "CN-BJ",
+      "name": "北京",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-TJ",
+      "name": "天津",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-HE",
+      "name": "河北",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-SX",
+      "name": "山西",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-NM",
+      "name": "内蒙古",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-LN",
+      "name": "辽宁",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-JL",
+      "name": "吉林",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-HL",
+      "name": "黑龙江",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-SH",
+      "name": "上海",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-JS",
+      "name": "江苏",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-ZJ",
+      "name": "浙江",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-AH",
+      "name": "安徽",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-FJ",
+      "name": "福建",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-JX",
+      "name": "江西",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-SD",
+      "name": "山东",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-HA",
+      "name": "河南",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-HB",
+      "name": "湖北",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-HN",
+      "name": "湖南",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-GD",
+      "name": "广东",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-GX",
+      "name": "广西",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-HI",
+      "name": "海南",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-CQ",
+      "name": "重庆",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-SC",
+      "name": "四川",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-GZ",
+      "name": "贵州",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-YN",
+      "name": "云南",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-XZ",
+      "name": "西藏",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-SN",
+      "name": "陕西",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-GS",
+      "name": "甘肃",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-QH",
+      "name": "青海",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-NX",
+      "name": "宁夏",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-XJ",
+      "name": "新疆",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-HK",
+      "name": "香港",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-MO",
+      "name": "澳门",
+      "coverage": "province",
+      "status": "preparing"
+    },
+    {
+      "regionID": "CN-TW",
+      "name": "台湾",
+      "coverage": "province",
+      "status": "preparing"
+    }
+  ],
+  "pilotPackages": []
+}
